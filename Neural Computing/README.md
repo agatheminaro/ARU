@@ -1,4 +1,4 @@
-# Intel & MobileODT Cervicak Cancer Screening
+# Intel & MobileODT Cervical Cancer Screening
 
 ## Introduction
 
